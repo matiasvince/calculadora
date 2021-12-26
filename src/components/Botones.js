@@ -34,7 +34,7 @@ const Botones = (props) => {
 
                 <div class="row">
                     <button class="col btn btn-dark m-2 fs-4 shadow" onClick={props.click}>0</button>
-                    <button class="col btn btn-secondary m-2 fs-4 shadow" onClick={props.click}>,</button>
+                    {/* <button class="col btn btn-secondary m-2 fs-4 shadow" onClick={props.click}>,</button> */}
                     <button class="col btn btn-warning m-2 fs-4 shadow" onClick={props.resolver}>=</button>
                 </div>
 
