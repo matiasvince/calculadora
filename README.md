@@ -1,5 +1,5 @@
-# tp3-calculadora
+# CALCULADORA APP
 
-TP3 - Calculadora - ReactJs
+Calculadora APP - ReactJs
 
-Alumno: Vince, Matías
+Vince, Matías
